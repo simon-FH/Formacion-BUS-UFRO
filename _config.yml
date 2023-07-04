@@ -1,0 +1,18 @@
+title: <p align="center"> Darlin Soto </p>
+
+logo: "images/my_photo.jpg"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/darlin-soto-v%C3%A1squez-b97469105/">LinkedIn</a> |
+  <a href="https://github.com/DarlinSoto">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am Doctor in Statistics working at Universidad de la Frontera, Chile.
+  <br><br>
+  I am developing statistical models for astronomical objects.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
