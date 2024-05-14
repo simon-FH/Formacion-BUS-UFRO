@@ -2,19 +2,25 @@
 
 **Haz _clic_ en el título de cada libro para encontrar una versión PDF**
 
-- Política 🏛️
+<!-- - Política 🏛️
 - Economía 📊
 - Medio ambiente 🌱
 - Género ♀️
 - Historia 📜
 - Filosofía 💭
-- Sociología 🏙
+- Sociología 🏙 -->
 
 ## [Los conceptos elementales del materialismo histórico](https://www.proletarios.org/books/Harnecker-Conceptos_elementales_del_materialismo_historico.pdf)
 - **Autores:** Marta Harnecker
 - **Año:** 1969 (1ra edición)
 - **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭, Sociología 🏙
 - **Páginas:** 220
+
+## [Breve historia del Neoliberalismo](https://www.cntchile.cl/assets/breve-historia-del-neoliberalismo-de-david-harvey.pdf)
+- **Autores:** David Harvey
+- **Año:** 2005 (1ra edición)
+- **Tópicos:** Política 🏛️, Historia 📜
+- **Páginas:** 210
 
 ![](images/conceptos.png)
 
