@@ -44,6 +44,12 @@
 - **Tópicos:** Política 🏛️, Historia 📜, Sociología 🏙
 - **Páginas:** 84
 
+## [Un nuevo sistema de pensiones para Chile](https://institutoigualdad.cl/wp-content/uploads/2018/09/Libro-final.pdf)
+- **Autores:** Hernán Frigolett, Andras Uthoff, Héctor Valladares
+- **Año:** 2018
+- **Tópicos:** Economía 📊, Política 🏛️
+- **Páginas:** 116
+
 ![](images/marx_engels.png)
 
 ## [La conquista del pan](https://proletarios.org/books/Kropotkin-La_Conquista_del_pan.pdf)
@@ -71,4 +77,4 @@
 - **Páginas:** 62
 
 ---
-<center>© 2024 Brigada Universitaria Socialista UFRO. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 Brigada Universitaria Socialista UFRO. Impulsado por Jekyll y el Minimal Theme.</center>
