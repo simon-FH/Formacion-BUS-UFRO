@@ -10,6 +10,8 @@
 - Filosofía 💭
 - Sociología 🏙 -->
 
+![](images/conceptos.png)
+
 ## [Los conceptos elementales del materialismo histórico](https://www.proletarios.org/books/Harnecker-Conceptos_elementales_del_materialismo_historico.pdf)
 - **Autores:** Marta Harnecker
 - **Año:** 1969 (1ra edición)
@@ -28,7 +30,13 @@
 - **Tópicos:** Política 🏛️
 - **Páginas:** 148
 
-![](images/conceptos.png)
+![](images/marx_engels.png)
+
+## [La conquista del pan](https://proletarios.org/books/Kropotkin-La_Conquista_del_pan.pdf)
+- **Autores:** Piotr Kropotkin
+- **Año:** 1892
+- **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭, Sociología 🏙
+- **Páginas:** 223
 
 ## [Del socialismo utópico al socialismo científico](https://www.fundacionfedericoengels.net/images/PDF/engels_socialismo_utopico.pdf)
 - **Autores:** Friedrich Engels
@@ -47,8 +55,6 @@
 - **Año:** 1898
 - **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭
 - **Páginas:** 62
-
-![](images/marx_engels.png)
 
 ---
 <center>© 2024 Brigada Universitaria Socialista UFRO. Powered by Jekyll and the Minimal Theme.</center>
