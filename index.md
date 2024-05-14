@@ -22,6 +22,12 @@
 - **Tópicos:** Política 🏛️, Historia 📜
 - **Páginas:** 210
 
+## [The ABCs of Socialism (en inglés, El ABC del Socialismo)](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
+- **Autores:** Nicole Aschoff, Vivek Chibber, Danny Katch, Chris Maisano, Nivedita Majumdar, Michael A. McCarthy, Joseph M. Schwartz, Bhaskar Sunkara, Keeanga-Yamahtta Taylor, Adaner Usmani, Erik Olin Wright
+- **Año:** 2016
+- **Tópicos:** Política 🏛️
+- **Páginas:** 148
+
 ![](images/conceptos.png)
 
 ## [Del socialismo utópico al socialismo científico](https://www.fundacionfedericoengels.net/images/PDF/engels_socialismo_utopico.pdf)
@@ -35,6 +41,12 @@
 - **Año:** 1848
 - **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭
 - **Páginas:** 89
+
+## [Reforma o revolución](https://www.marxists.org/espanol/luxem/01Reformaorevolucion_0.pdf)
+- **Autores:** Rosa Luxemburgo
+- **Año:** 1898
+- **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭
+- **Páginas:** 62
 
 ![](images/marx_engels.png)
 
