@@ -1,5 +1,7 @@
 # Lecturas de formación
 
+**Haz _clic_ en el título de cada libro para encontrar una versión PDF**
+
 - Política 🏛️
 - Economía 📊
 - Medio ambiente 🌱
