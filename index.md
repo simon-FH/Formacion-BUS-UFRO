@@ -1,6 +1,6 @@
-# Portfolio
+# Lecturas de formación
 
-## [Black hole regularization with non-linear electrodynamics](https://github.com/DarlinSoto/Modulation-models)
+## [Los conceptos elementales del materialismo histórico]()
 This repository includes codes in R software to reproduce the figures in the paper [Motta, G., **D. Soto**, and M. Catelan (2022, January). Periodic variable stars modulated by time-varying parameters. ApJ 925(1), 73.](https://iopscience.iop.org/article/10.3847/1538-4357/ac3833)
 
 ![](images/regular bh.png)
@@ -11,4 +11,4 @@ Este repositorio incluye el ajuste de un modelo ARMA para pronosticar el númér
 ![](images/imag_Sunspots.jpg)
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 Brigada Universitaria Socialista UFRO. Powered by Jekyll and the Minimal Theme.</center>
