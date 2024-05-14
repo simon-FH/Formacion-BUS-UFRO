@@ -30,6 +30,12 @@
 - **Tópicos:** Política 🏛️
 - **Páginas:** 148
 
+## [¿Por qué el socialismo?](http://scielo.sld.cu/pdf/rcsp/v42n2/spu18216.pdf)
+- **Autores:** Albert Einstein
+- **Año:** 1949
+- **Tópicos:** Política 🏛️
+- **Páginas:** 5
+
 ![](images/marx_engels.png)
 
 ## [La conquista del pan](https://proletarios.org/books/Kropotkin-La_Conquista_del_pan.pdf)
