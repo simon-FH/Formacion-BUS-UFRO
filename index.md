@@ -1,10 +1,10 @@
 # Lecturas de formación
 
 ## [Los conceptos elementales del materialismo histórico](https://www.proletarios.org/books/Harnecker-Conceptos_elementales_del_materialismo_historico.pdf)
--Autores: Marta Harnecker
--Año: 1969 (1ra edición)
--Tópicos: Política, Historia, Filosofía, Sociología
--Páginas: 296
+- **Autores:** Marta Harnecker
+- **Año:** 1969 (1ra edición)
+- **Tópicos:** Política, Historia, Filosofía, Sociología
+- **Páginas:** 296
 
 ![](images/regular bh.png)
 
