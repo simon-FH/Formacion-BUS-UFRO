@@ -16,7 +16,7 @@
 - **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭, Sociología 🏙
 - **Páginas:** 220
 
-![](images/marx engels.png)
+![](images/marx_engels.png)
 
 ## [Del socialismo utópico al socialismo científico](https://www.fundacionfedericoengels.net/images/PDF/engels_socialismo_utopico.pdf)
 - **Autores:** Friedrich Engels
