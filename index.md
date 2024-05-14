@@ -8,7 +8,7 @@
 - Filosofía 💭
 - Sociología 🏙
 
-![](images/regular bh.png)
+![](images/conceptos.png)
 
 ## [Los conceptos elementales del materialismo histórico](https://www.proletarios.org/books/Harnecker-Conceptos_elementales_del_materialismo_historico.pdf)
 - **Autores:** Marta Harnecker
