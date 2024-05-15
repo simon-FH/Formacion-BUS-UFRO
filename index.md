@@ -50,6 +50,12 @@
 - **Tópicos:** Economía 📊, Política 🏛️
 - **Páginas:** 116
 
+## [La crisis chilena](docs/la_crisis_chilena_-_eugenio_gonzalez_rojas[1].pdf)
+- **Autores:** Eugenio Gonzalez Rojas
+- **Año:** 1952
+- **Tópicos:** Política 🏛️, Sociología 🏙 
+- **Páginas:** 23
+
 ![](images/marx_engels.png)
 
 ## [La conquista del pan](https://proletarios.org/books/Kropotkin-La_Conquista_del_pan.pdf)
