@@ -36,6 +36,12 @@
 - **Tópicos:** Política 🏛️
 - **Páginas:** 5
 
+## [Realismo Capitalista](http://comunizar.com.ar/wp-content/uploads/Fisher-Mark-Realismo-Capitalista.pdf)
+- **Autores:** Mark Fisher
+- **Año:** 2009
+- **Tópicos:** Política 🏛️, Filosofía 💭, Sociología 🏙
+- **Páginas:** 181
+
 ![](images/ps_chile.png)
 
 ## [La vía chilena a la democracia de los trabajadores](https://www.socialismo-chileno.org/PS/ES/Tomo_5_6_86/Tomo_5_6_86.html#page=1)
