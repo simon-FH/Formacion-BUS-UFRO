@@ -56,11 +56,17 @@
 - **Tópicos:** Economía 📊, Política 🏛️
 - **Páginas:** 116
 
-## [La crisis chilena](docs/la_crisis_chilena_-_eugenio_gonzalez_rojas[1].pdf)
-- **Autores:** Eugenio Gonzalez Rojas
-- **Año:** 1952
-- **Tópicos:** Política 🏛️, Sociología 🏙 
-- **Páginas:** 23
+## [El Partido Socialista de Chile y la presente cultura de facciones. Un enfoque histórico generacional](docs/PS_Lotes.pdf)
+- **Autores:** Víctor Muñoz Tamayo
+- **Año:** 2016
+- **Tópicos:** Política 🏛️
+- **Páginas:** 32
+
+## [Estatuto del Partido Socialista de Chile](docs/Estatuto_PartidoSocialista_de_Chile.pdf)
+- **Autores:** PS
+- **Año:** 2003
+- **Tópicos:** Política 🏛️
+- **Páginas:** 47
 
 ![](images/marx_engels.png)
 
