@@ -96,3 +96,4 @@
 
 ---
 <center>© 2024 Brigada Universitaria Socialista UFRO. Impulsado por Jekyll y el Minimal Theme.</center>
+<center>busufro@gmail.com</center>
