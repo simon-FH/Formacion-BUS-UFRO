@@ -68,6 +68,12 @@
 - **Tópicos:** Política 🏛️
 - **Páginas:** 47
 
+## [Estatutos orgánicos de la Juventud Socialista de Chile](docs/Estatutos_JS_Final.pdf)
+- **Autores:** JS
+- **Año:** 2015
+- **Tópicos:** Política 🏛️
+- **Páginas:** 68
+
 ![](images/marx_engels.png)
 
 ## [La conquista del pan](https://proletarios.org/books/Kropotkin-La_Conquista_del_pan.pdf)
