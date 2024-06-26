@@ -10,6 +10,12 @@
 - Filosofía 💭
 - Sociología 🏙 -->
 
+## [Entrevista a Carlos Lorca desde la Clandestinidad](docs/ENTREVISTA_A_CARLOS_LORCA_DESDE_LA_CLANDESTINIDAD_BUS_UFRO.pdf)
+- **Autores:** Marta Harnecker
+- **Año:** 1969 (1ra edición)
+- **Tópicos:** Política 🏛️, Historia 📜, Filosofía 💭, Sociología 🏙
+- **Páginas:** 220
+- 
 ![](images/conceptos.png)
 
 ## [Los conceptos elementales del materialismo histórico](https://www.proletarios.org/books/Harnecker-Conceptos_elementales_del_materialismo_historico.pdf)
